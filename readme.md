@@ -15,5 +15,4 @@ Aplikasi ini digunakan untuk membuat daftar  kegiatan yang ingin dilakukan, user
 - eas build --platform android
 
 #### File Apk/Aab dapat diunduh pada link: https://expo.dev/artifacts/eas/vY5VLmRSNQV9GAEaEZA332.aab
-#### File Apk/Aab juga disediakan di folder github ini.
 

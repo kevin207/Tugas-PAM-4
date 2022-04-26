@@ -14,6 +14,6 @@ Aplikasi ini digunakan untuk membuat daftar  kegiatan yang ingin dilakukan, user
 - npm install -g eas-cli
 - eas build --platform android
 
-#### Apk dapat diunduh pada link:
-#### Apk juga disediakan di folder github ini.
+#### File Apk/Aab dapat diunduh pada link: https://expo.dev/artifacts/eas/vY5VLmRSNQV9GAEaEZA332.aab
+#### File Apk/Aab juga disediakan di folder github ini.
 

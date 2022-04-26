@@ -10,10 +10,10 @@ Aplikasi ini digunakan untuk membuat daftar  kegiatan yang ingin dilakukan, user
 - Expo Icon
 - Expo Checkbock
 
-Apk dapat diunduh pada link:
+## Cara membuat apk
+- npm install -g eas-cli
+- eas build --platform android
 
-
-Apk juga disediakan di folder github ini.
-
-## Cara menginstal
+#### Apk dapat diunduh pada link:
+#### Apk juga disediakan di folder github ini.
 
